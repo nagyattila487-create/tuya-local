@@ -61,7 +61,7 @@ entities:
           min: 40
           max: 60
         unit: C
-      - id: 107
+      - id: 26
         type: integer
         name: current_temperature
       - id: 16
